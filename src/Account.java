@@ -1,7 +1,7 @@
 public class Account {
 
     private String name;
-   private String game;
+    private String game;
     private int resultGame;
 
     public void setResultGame(int resultGame) {
